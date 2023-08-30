@@ -1,0 +1,34 @@
+criar git
+baixar git
+abrir com bit bash
+git init
+git config --local user.name "Danielluc14"
+git config --local user.email "danielpintolucas@gmail.com"
+git config -l
+git config --global  (p/ fazer em casa)
+
+python basico 
+adicionar o pef quando for instala o pyhon
+
+
+Tipos primitivos
+
+* Inteirro(int)
+* Decimais/ponto Flutuante(float)
+* Texto/string(sting)
+* Booleanos (bool)
+
+subindo o codigo 
+
+abra o git bash
+
+códigos
+
+git status
+git add atv01.py
+git status 
+git remote add origin https://github.com/Danielluc14/Workshop_BackEnd_Fabrica_de_software.git
+
+Udemy
+Devmedia
+
